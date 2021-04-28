@@ -20,4 +20,4 @@ The rocketry team, [Project Phobos](https://eng.unimelb.edu.au/ares/about/rocket
 </br>
 
 #### Weekly Workshops
-[The weekly workshops](https://github.com/ares-unimelb/ARES-Workshops-2021), delivered both online and in person, is designed to prepare a student with hands-on necessary skills for the rocketry and rover projects, as well as the opportunity to learn about the aerospace industry.
+[The weekly workshops](https://github.com/ares-unimelb/ARES-Workshops-2021), delivered both online and in person, is designed to prepare a student with hands-on necessary skills for the rocketry and rover projects, as well as to provide the opportunity to learn about the aerospace industry.
